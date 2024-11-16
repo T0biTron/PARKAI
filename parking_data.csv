@@ -1,0 +1,13 @@
+﻿Hora,Dia,Tipo_espacio,Temporada,Ocupacion
+10:00am,Lunes,Normal,0,Ocupado
+3:00pm ,Martes,Discapacitado,1,Libre
+7:00am,Miercoles,Electrico,0,Ocupado
+11:00am,Jueves,Normal,1,Ocupado
+5:00pm,Viernes,Discapacitado,1,Libre
+2:00pm ,Sabado,Electrico,0,Libre
+9:00pm ,Lunes,Normal,0,Libre
+6:00pm,Martes,Discapacitado,1,Ocupado
+1:00pm,Miercoles,Electrico,0,Ocupado
+12:00pm,Jueves,Normal,1,Ocupado
+4:00pm,Viernes,Discapacitado,1,Libre
+8:00am,Sabado,Electrico,0,Ocupado
